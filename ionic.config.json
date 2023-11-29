@@ -1,0 +1,7 @@
+{
+    "name": "shopend",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+  }
